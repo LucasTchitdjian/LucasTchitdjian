@@ -1,4 +1,5 @@
 ### Hi there 👋
+From Marseille, I followed the full stack WEB Developer training by LE WAGON that I really liked and more precisely the FRONT side. This is why i would love to find an apprenticeship to help me gain experience and skills.
 
 <!--
 **LucasTchitdjian/LucasTchitdjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
