@@ -14,6 +14,3 @@ Here are some ideas to get you started
 
 If you want to know more about me visit my ----> <a href="https://www.linkedin.com/in/lucas-tchitdjian/">Linkedin </a> 
 
-<h1> Untill then see you later </h1>
-
-<img src="https://c.tenor.com/WJIEOHsnJmkAAAAC/obama-mic-drop.gif" />
