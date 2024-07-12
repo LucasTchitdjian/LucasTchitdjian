@@ -17,7 +17,7 @@ Développeur Fullstack ReactJS expérimenté (3 ans), passionné par la créatio
 
 **🔍 Découvrez mon travail**
 
-* 💼 <a href="https://www.portfoliolucastchit.com>"Portfolio personnel</a> : Plongez dans mes réalisations concrètes et voyez comment je peux apporter de la valeur à votre équipe.
+* 💼 <a href="https://www.portfoliolucastchit.com">Portfolio personnel</a> : Plongez dans mes réalisations concrètes et voyez comment je peux apporter de la valeur à votre équipe.
 
 **🤝 Entrons en contact !**
 
