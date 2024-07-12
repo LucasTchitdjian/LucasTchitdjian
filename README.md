@@ -16,12 +16,12 @@ Passionné par la création d'interfaces utilisateur interactives et modernes, j
 
 **🔍 Découvrez mon travail**
 
-* 💼 <a href="https://www.portfoliolucastchit.com>[Portfolio personnel]</a> : Plongez dans mes réalisations concrètes et voyez comment je peux apporter de la valeur à votre équipe.
+* 💼 <a href="https://www.portfoliolucastchit.com>Portfolio personnel</a> : Plongez dans mes réalisations concrètes et voyez comment je peux apporter de la valeur à votre équipe.
 
 **🤝 Entrons en contact !**
 
 * ✉️ tchitdjian.lucas@gmail.com
-* 🔗 <a href="https://www.linkedin.com/in/lucas-tchitdjian">[LinkedIn] </a>
+* 🔗 <a href="https://www.linkedin.com/in/lucas-tchitdjian">LinkedIn</a>
 
 Je suis impatient d'échanger avec vous sur les opportunités d'alternance et de vous montrer comment mes compétences peuvent contribuer à vos projets.
 
