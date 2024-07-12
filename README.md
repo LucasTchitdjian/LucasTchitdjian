@@ -4,7 +4,8 @@ Passionné par la création d'interfaces utilisateur interactives et modernes, j
 
 **🚀 Mon parcours**
 
-* 👨‍💻 Formation concepteur & développeur d'applications WEB (ISCOD) : J'ai acquis une expertise approfondie en développement web et mobile, couvrant le frontend (HTML, CSS, JavaScript, ReactJS) et le backend (NodeJS, Express), ainsi que les bases de données (MongoDB, MySQL) et les API RESTful. Un accent particulier a été mis sur les bonnes pratiques de sécurité. 
+* 👨‍💻 Formation concepteur & développeur d'applications WEB (ISCOD) : J'ai acquis une expertise approfondie en développement web et mobile, couvrant le frontend (HTML, CSS, JavaScript, ReactJS) et le backend (NodeJS, Express), ainsi que les bases de données (MongoDB, MySQL) et les API RESTful. Un accent particulier a été mis sur les bonnes pratiques de sécurité. <br>
+* 💻 Alternance chez Superlative Apps : J'ai contribué au développement front-end de l'extension Chooz'it en JavaScript, en implémentant des fonctionnalités de récupération et d'intégration des données produits. J'ai également créé une mini galerie d'images adaptative en CSS Grid et une fonctionnalité d'évaluation de la qualité des annonces en React JS. <br>
 * 🎯 Objectif : Je suis à la recherche d'un poste en tant que développeur front-end ReactJS
   
 **🌱 Compétences & Intérêts**
