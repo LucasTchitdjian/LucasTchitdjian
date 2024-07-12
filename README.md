@@ -1,16 +1,28 @@
-### Hello there 👋
-My name is  __Lucas__ , I'm From Marseille, I followed the full stack WEB Developer training by LE WAGON . I realy liked this 9 weeks especialy the frontend part . 
-This is why i would love to find an apprenticeship to help me gain experience and skills.
+👋 Bonjour, je suis Lucas, Développeur Front-end ReactJS 🇫🇷
 
+Passionné par la création d'interfaces utilisateur interactives et modernes, je suis basé à Marseille et fraîchement diplômé de la formation intensive Le Wagon en développement web fullstack. 
 
-<!--
-**LucasTchitdjian/LucasTchitdjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 Mon parcours**
 
-Here are some ideas to get you started
--->
-- 🌱 I’m currently learning REACT<br/><br/><br/>
-- 🚀 Visit my personnal website: <a href="https://portfoliolucastchit.com/">My website </a>
-- 📫 How to reach me: tchitdjian.lucas@gmail.com<br/><br/><br/>
+* 👨‍💻 Formation Le Wagon (9 semaines) : J'ai acquis une solide base en développement web fullstack, avec un intérêt particulier pour React. 
+* 🎯 Objectif : Je suis à la recherche d'une alternance pour renforcer mes compétences en React et contribuer à des projets web ambitieux.
 
-If you want to know more about me visit my ----> <a href="https://www.linkedin.com/in/lucas-tchitdjian/">Linkedin </a> <br /> and my portfolio at <a href="https://www.portfoliolucastchit.com">Portfolio personnel
+**🌱 Compétences & Intérêts**
 
+* **Frontend :** React, JavaScript, HTML, CSS
+* **Backend :** Ruby on Rails, Node.js, PostgreSQL
+* **Outils :** Git, GitHub, VS Code
+* **Intérêts :** Développement d'applications web, design d'interfaces utilisateur, technologies émergentes
+
+**🔍 Découvrez mon travail**
+
+* 💼 <a href="https://www.portfoliolucastchit.com>[Portfolio personnel]</a> : Plongez dans mes réalisations concrètes et voyez comment je peux apporter de la valeur à votre équipe.
+
+**🤝 Entrons en contact !**
+
+* ✉️ tchitdjian.lucas@gmail.com
+* 🔗 <a href="https://www.linkedin.com/in/lucas-tchitdjian">[LinkedIn] </a>
+
+Je suis impatient d'échanger avec vous sur les opportunités d'alternance et de vous montrer comment mes compétences peuvent contribuer à vos projets.
+
+*Fun fact: J'aime apprendre de nouvelles technologies en expérimentant sur des projets personnels, comme une application de suivi de séries !* 🤓
