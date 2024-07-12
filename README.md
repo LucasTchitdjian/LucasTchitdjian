@@ -4,9 +4,9 @@ Passionné par la création d'interfaces utilisateur interactives et modernes, j
 
 **🚀 Mon parcours**
 
-* 👨‍💻 Formation Le Wagon (9 semaines) : J'ai acquis une solide base en développement web fullstack, avec un intérêt particulier pour React. 
-* 🎯 Objectif : Je suis à la recherche d'une alternance pour renforcer mes compétences en React et contribuer à des projets web ambitieux.
-
+* 👨‍💻 Formation concepteur & développeur d'applications WEB (ISCOD) : J'ai acquis une expertise approfondie en développement web et mobile, couvrant le frontend (HTML, CSS, JavaScript, ReactJS) et le backend (NodeJS, Express), ainsi que les bases de données (MongoDB, MySQL) et les API RESTful. Un accent particulier a été mis sur les bonnes pratiques de sécurité. 
+* 🎯 Objectif : Je suis à la recherche d'un poste en tant que développeur front-end ReactJS
+  
 **🌱 Compétences & Intérêts**
 
 * **Frontend :** React, JavaScript, HTML, CSS
