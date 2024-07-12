@@ -12,7 +12,5 @@ Here are some ideas to get you started
 - 🚀 Visit my personnal website: <a href="https://portfoliolucastchit.com/">My website </a>
 - 📫 How to reach me: tchitdjian.lucas@gmail.com<br/><br/><br/>
 
-If you want to know more about me visit my ----> <a href="https://www.linkedin.com/in/lucas-tchitdjian/">Linkedin </a> <br /> and my portfolio at <ahref="https://www.portfoliolucastchit.com">Portfolio personnel
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastchitdjian&theme=dark&show_icons=true)
+If you want to know more about me visit my ----> <a href="https://www.linkedin.com/in/lucas-tchitdjian/">Linkedin </a> <br /> and my portfolio at <a href="https://www.portfoliolucastchit.com">Portfolio personnel
 
