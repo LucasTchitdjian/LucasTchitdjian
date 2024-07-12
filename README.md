@@ -1,6 +1,6 @@
-👋 Bonjour, je suis Lucas, Développeur Front-end ReactJS 🇫🇷
+👋 Bonjour, je suis Lucas, Développeur Web Fullstack (spécialisé en React) 🇫🇷
 
-Passionné par la création d'interfaces utilisateur interactives et modernes, je suis basé à Marseille et fraîchement diplômé de la formation intensive Le Wagon en développement web fullstack. 
+Développeur Fullstack ReactJS expérimenté (3 ans), passionné par la création de solutions web innovantes et performantes pour les médias en ligne. Mon expertise en ReactJS, NodeJS et en méthodologies Agile me permet de concevoir des applications réactives et intuitives, améliorant l'expérience utilisateur.
 
 **🚀 Mon parcours**
 
@@ -17,7 +17,7 @@ Passionné par la création d'interfaces utilisateur interactives et modernes, j
 
 **🔍 Découvrez mon travail**
 
-* 💼 <a href="https://www.portfoliolucastchit.com>Portfolio personnel</a> : Plongez dans mes réalisations concrètes et voyez comment je peux apporter de la valeur à votre équipe.
+* 💼 <a href="https://www.portfoliolucastchit.com>"Portfolio personnel</a> : Plongez dans mes réalisations concrètes et voyez comment je peux apporter de la valeur à votre équipe.
 
 **🤝 Entrons en contact !**
 
