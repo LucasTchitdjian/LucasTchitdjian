@@ -1,16 +1,24 @@
-👋 Bonjour, je suis Lucas, Développeur Web Fullstack (spécialisé en React) 🇫🇷
+👋 Bonjour, je suis Lucas — Étudiant en Master Cybersécurité & Développeur Web Fullstack 🇫🇷
 
-Développeur Fullstack ReactJS expérimenté (3 ans), passionné par la création de solutions web innovantes et performantes pour les médias en ligne. Mon expertise en ReactJS, NodeJS et en méthodologies Agile me permet de concevoir des applications réactives et intuitives, améliorant l'expérience utilisateur.
+**💻 À propos de moi**
 
-**🚀 Mon parcours**
-
-* 👨‍💻 Formation concepteur & développeur d'applications WEB (ISCOD) : J'ai acquis une expertise approfondie en développement web et mobile, couvrant le frontend (HTML, CSS, JavaScript, ReactJS) et le backend (NodeJS, Express), ainsi que les bases de données (MongoDB, MySQL) et les API RESTful. Un accent particulier a été mis sur les bonnes pratiques de sécurité. <br></br>
-* 💻 Alternance chez Superlative Apps : J'ai contribué au développement front-end de l'extension Chooz'it en JavaScript, en implémentant des fonctionnalités de récupération et d'intégration des données produits. J'ai également créé une mini galerie d'images adaptative en CSS Grid et une fonctionnalité d'évaluation de la qualité des annonces en React JS. <br></br>
-* 🎯 Objectif : Je suis à la recherche d'un poste en tant que développeur front-end ReactJS
+* 🔐  Cybersécurité : Stage chez Olea Medical – déploiement d’une infrastructure SIEM complète (Graylog pour la collecte, Wazuh pour la corrélation et l’analyse), intégration multi-sources (Linux, Windows, Palo Alto), tableaux de bord et alertes. <br></br>
+* 🌐 Développement Web : Expérience en React, Angular, Node.js, MongoDB, MySQL, API REST, avec un focus sur la sécurité applicative (JWT, XSS, CSRF). <br></br>
+* 🚀 Méthodes de travail : Agile / Scrum, collaboration en équipe, documentation technique.
+<br></br>
+* 🎯 Objectif : Actuellement en Master Cybersécurité à SUPINFO, je suis à la recherche d’une alternance à partir de septembre 2025 dans le domaine de la sécurité informatique (SIEM, DevSecOps, détection d’incidents) et/ou du développement web fullstack.
   
 **🌱 Compétences & Intérêts**
 
-* **Frontend :** React, JavaScript, HTML, CSS
+* **Cybersécurité :** SIEM : Graylog, Wazuh
+
+Analyse de logs & corrélation d’événements
+
+Suricata IDS, Auditd, DevSecOps
+
+Protocoles : SSL/TLS, VPN, HTTPS
+
+Normes : ISO 27001, bonnes pratiques ANSSI
 * **Backend :** Ruby on Rails, Node.js, PostgreSQL
 * **Outils :** Git, GitHub, VS Code
 * **Intérêts :** Développement d'applications web, design d'interfaces utilisateur, technologies émergentes
