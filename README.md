@@ -19,13 +19,25 @@ Suricata IDS, Auditd, DevSecOps
 Protocoles : SSL/TLS, VPN, HTTPS
 
 Normes : ISO 27001, bonnes pratiques ANSSI
-* **Backend :** Ruby on Rails, Node.js, PostgreSQL
-* **Outils :** Git, GitHub, VS Code
-* **Intérêts :** Développement d'applications web, design d'interfaces utilisateur, technologies émergentes
+* **Développement Web :** Frontend : React, Angular, HTML5, CSS3, JavaScript, SCSS
+
+Backend : Node.js, Express, Ruby on Rails
+
+Bases de données : MongoDB, MySQL, PostgreSQL
+
+API : RESTful
+
+Outils : Git, GitHub, VS Code, Figma
 
 **🔍 Découvrez mon travail**
 
 * 💼 <a href="https://www.portfoliolucastchit.com">Portfolio personnel</a> : Plongez dans mes réalisations concrètes et voyez comment je peux apporter de la valeur à votre équipe.
+
+**📂 Projets récents**
+* SIEM Olea Medical : Déploiement Graylog + Wazuh, intégration multi-sources, dashboards, alertes automatiques.
+* What To Watch 🎬 : App React + Firebase – Gestion de listes de films/séries.
+* Reactonauts 🚀 : Site multi-pages React – Présentation du tourisme spatial.
+* Restful Nations 🌍 : App React + API REST – Recherche d’infos sur les pays.
 
 **🤝 Entrons en contact !**
 
@@ -34,4 +46,4 @@ Normes : ISO 27001, bonnes pratiques ANSSI
 
 Je suis impatient d'échanger avec vous sur les opportunités d'alternance et de vous montrer comment mes compétences peuvent contribuer à vos projets.
 
-*Fun fact: J'aime apprendre de nouvelles technologies en expérimentant sur des projets personnels, comme une application de suivi de séries !* 🤓
+*Fun fact : J’adore apprendre de nouvelles technologies en les testant directement dans des projets concrets — ma dernière expérimentation : un système de détection d’intrusion Suricata + Wazuh 🛡️*
